@@ -1,0 +1,27 @@
+table{
+	border: 2px solid gray;
+	border-collapse: collapse;
+}
+
+table th, table td{
+	border: 1px solid gray
+}
+
+table th{
+	background-color: lightgreen;
+	color: green
+}
+table tr td: nth-of-type(1){
+	text align: right;
+}
+
+
+	width: 100px;
+	display: inline-block;
+	vertical-align: bottom;
+	mergin: 5px 0px;
+	padding: 10px;
+	border: 2px solid
+}
+
+.font-red{color: blue}
