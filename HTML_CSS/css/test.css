@@ -1,27 +1,92 @@
 table{
-	border: 2px solid gray;
-	border-collapse: collapse;
+	border-collapse: collapse
 }
 
-table th, table td{
-	border: 1px solid gray
+.border{
+	border: 2px solid gray;
+	margin-left: 50px;
+	line-height:20px
+}
+
+table th, table.border td{
+	border: 1px solid gray;
+	padding: 5px
 }
 
 table th{
 	background-color: lightgreen;
 	color: green
 }
-table tr td: nth-of-type(1){
-	text align: right;
+
+td span{
+	color: red;
+	font-weight: bold
 }
 
-
-	width: 100px;
-	display: inline-block;
-	vertical-align: bottom;
-	mergin: 5px 0px;
-	padding: 10px;
-	border: 2px solid
+.right{
+	text-align: right;
 }
 
-.font-red{color: blue}
+.a{
+	width: 40px;
+}
+
+.b{
+	width: 70px
+}
+
+.c{
+	width: 60px
+}
+
+.d{
+	width: 180px
+}
+
+.e{
+	width: 60px
+}
+
+.f{
+	width: 150px
+}
+
+.g{
+	width: 400px
+}
+
+img{
+	margin: 10px
+}
+
+.box1{
+	border: solid 3px gray;
+	border-radius: 10px;
+	width: 850px;
+	text-align: center;
+	margin:0 auto
+}
+
+.form-size{
+	width: 500px;
+	height: 20px
+}
+
+textarea{
+	resize: none;
+	width: 500px;
+	height: 200px;
+	vertical-align: middle
+}
+
+.submit{
+	background-color: #1e90ff;
+	color: white;
+	width: 70px;
+	height: 30px;
+	border-radius: 5px
+}
+
+form span{
+	margin-left: 16px
+}
