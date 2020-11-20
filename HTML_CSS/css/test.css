@@ -27,39 +27,39 @@ td span{
 	text-align: right;
 }
 
-.a{
+.No.-width{
 	width: 40px;
 }
 
-.b{
+.lang-width{
 	width: 70px
 }
 
-.c{
+.share-width{
 	width: 60px
 }
 
-.d{
+.doc-width{
 	width: 180px
 }
 
-.e{
+.logo-width{
 	width: 60px
 }
 
-.f{
+.name-width{
 	width: 150px
 }
 
-.g{
-	width: 400px
+.osusume-width{
+	width: 410px
 }
 
 img{
 	margin: 10px
 }
 
-.box1{
+.contact-form{
 	border: solid 3px gray;
 	border-radius: 10px;
 	width: 850px;
